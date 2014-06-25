@@ -1,0 +1,14 @@
+Written by Paul Mould
+***********************************************************************************
+Smiley Game:
+The aim of the game is to use your smiley to eat as many dots as possible until the timer runs down. TO move the red smiley user the arrow keys and to move the mule smiley use the number keypad.
+***********************************************************************************
+How to Start the Game:
+The game runs in the command line. 
+To start the command line open the command line program.
+GO to the directory of that the smiley.exe file is located
+Enter smiley into the command line and press enter to start the game.
+To quit the game at any point click the ‘q’ key
+*************************************************************************************
+Copyright Paul Mould Development
+*************************************************************************************
